@@ -22,7 +22,7 @@ I'm Yassine Hachami, a passionate web developer and programmer with expertise in
 #### 📢 Let's Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-Dr--Hachami-blue?style=flat&logo=github)](https://github.com/Dr-Hachami)
-[![Twitter](https://img.shields.io/twitter/follow/YassineHAC53630?style=social)](https://twitter.com/YassineHAC53630)
+[![Twitter](https://img.shields.io/twitter/follow/hachamiyacine?style=social)](https://twitter.com/hachamiyacine)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yassine%20Hachami-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yassine-hachami/)
 
 <!-- Add any additional sections or customizations as per your preference -->
