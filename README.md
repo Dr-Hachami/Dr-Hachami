@@ -12,13 +12,12 @@ I'm Yassine Hachami, a passionate web developer and programmer with expertise in
 
 #### 🔧 Technologies & Tools
 
-- Python 
 - JavaScript
 - HTML
 - CSS 
-- Node.js
 - React.js
-- Django 
+- Node.js
+- Python 
 
 #### 📢 Let's Connect
 
