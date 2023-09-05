@@ -12,7 +12,7 @@ I'm Yassine Hachami, a passionate web developer and programmer with expertise in
 
 #### 🔧 Technologies & Tools
 
-- C fundamentals 
+- C fundamentals  
 - JavaScript
 - HTML
 - CSS 
